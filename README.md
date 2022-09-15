@@ -1,8 +1,8 @@
 ## Olá ! Eu sou Kétsia Amin 👋
 
 - 🔭 Atualmente estou buscando meu primeiro Estágio em Programação
-- 🌱 Estou no nível intermediário de python
-- 👯 Estou procurando colaborar com segurança da informação/
+- 🌱 Estou no nível intermediário de Python e Dart
+- 👯 Estou procurando colaborar com segurança da informação/Desenvolvimento Mobile
 - 📫 Como chegar até mim: ketsiamin@live.com
 - ⚡ Curiosidade: Cyber Segurança
 
